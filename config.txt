@@ -1,4 +1,4 @@
 ; This file controls various aspects of your configuration.
 
 [Database Parameters]
-database_url: mysql+pymysql://root:123456??@localhost/MF
+database_url: postgresql://root@localhost:5432/mf
